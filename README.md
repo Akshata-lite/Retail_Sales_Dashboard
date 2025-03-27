@@ -2,7 +2,7 @@
 This repository contains an interactive Tableau dashboard for Executive Retail Sales Analytics, built using the Maven Market dataset. It provides insights into sales, profit, and regional performance over time
 
 # Executive Retail Sales Dashboard
-<img src="Dashboard.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
+<img src="Superstore image.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
 
 ## Overview :  
 This dashboard provides insights into retail sales performance, focusing on key metrics like sales, profit, and regional performance. It helps executives track business growth and optimize decision-making.
