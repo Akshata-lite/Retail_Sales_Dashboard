@@ -11,7 +11,7 @@ This dashboard provides insights into retail sales performance, focusing on key 
 - Maven Market Dataset (includes transactions, customers, products, stores, and regions data)
 
 ## Tool Used :  
-<img src="./tableau-logo.png" width="300" height="150"/>&nbsp;
+<img src="./Tableu.jpg" width="300" height="150"/>&nbsp;
 
 ## Results and Insights :  
 - Total **Year-to-Date (YTD) Sales** amount to **$1.74M**, with a **YTD Profit** of **$236K**.  
@@ -29,6 +29,6 @@ This dashboard provides insights into retail sales performance, focusing on key 
 The dashboard provides a comprehensive view of retail sales performance across different regions and categories. It helps executives identify trends, optimize pricing strategies, and improve operational efficiency.  
 
 ## Dashboard :  
-<img src="Dashboard.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
+<img src="Dashboard_image.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
 
 
