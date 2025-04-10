@@ -104,7 +104,7 @@ These insights help businesses identify high-performing areas and make strategic
 ## Dashboard :  
 <img src="Dashboard_image.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
 
-## Data Story:
+## Story telling: 
 <img src="Data Story1.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
 <img src="Data Story2.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
 <img src="Data Story3.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
