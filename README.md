@@ -105,13 +105,13 @@ These insights help businesses identify high-performing areas and make strategic
 •	The insights can guide strategic decisions such as regional investments, discount policies, and category prioritization.
 
 ## Dashboard :  
-<img src="Dashboard_image.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
+<img src="images/Dashboard_image.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
 
 ## Story telling: 
-<img src="Data Story1.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
-<img src="Data Story2.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
-<img src="Data Story3.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
-<img src="Data Story4.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
+<img src="images/Data Story1.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
+<img src="images/Data Story2.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
+<img src="images/Data Story3.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
+<img src="images/Data Story4.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
 
 
 
