@@ -4,7 +4,7 @@ This repository contains an interactive Tableau dashboard for Executive Retail S
 https://public.tableau.com/app/profile/akshata.kamble8831/viz/Retail_Sales_Dashboard_AK/Dashboard1
 
 # Executive Retail Sales Dashboard
-<img src="Superstore image.png" alt="Executive Retail Sales Dashboard" width="1080" height="580">
+<img src="images/Atlantic_Superstore.jpg" alt="Executive Retail Sales Dashboard" width="1080" height="580">
 
 
 ## Overview :  
